@@ -1,0 +1,41 @@
+# Created by Octave 5.2.0, Wed Apr 08 12:43:23 2020 GMT <unknown@MSI>
+# name: a
+# type: matrix
+# rows: 3
+# columns: 4
+ 1 3 5 7
+ 2 4 6 8
+ 1 2 4 2
+
+
+# name: ans
+# type: matrix
+# rows: 1
+# columns: 0
+
+
+
+# name: b
+# type: matrix
+# rows: 4
+# columns: 3
+ 1 2 3
+ 2 4 6
+ 1 3 4
+ 2 2 5
+
+
+# name: x
+# type: matrix
+# rows: 1
+# columns: 4
+ 0.5 1 1.5 2
+
+
+# name: y
+# type: matrix
+# rows: 1
+# columns: 3
+ 1 2 3
+
+
